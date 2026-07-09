@@ -4,7 +4,9 @@ The PredictLeads MCP (Model Context Protocol) server lets AI agents access Predi
 
 Every tool maps to an individual PredictLeads API endpoint with the same available parameters. One additional tool exposes the full OpenAPI schema, so an AI agent can determine which tool to use — and how — for a given prompt.
 
-PredictLeads provides company intelligence data: technology detections, job openings, financing events, SEC filings, GitHub repositories, product launches, company connections, and more.
+PredictLeads provides company intelligence data: Companies Technology detections, Job openings, Financing events, Categorized News Events, Similar companies, GitHub repositories, product launches, company connections, and more.
+
+Coverage: Over 120M companies with historical data since 2016. 
 
 ## Base URL
 
